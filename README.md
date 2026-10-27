@@ -31,3 +31,4 @@ In conclusion, this internship task was a useful learning experience in Python p
 
 *OUTPUT*:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b339125b-dfdb-41e7-a3bd-7abb160f3c68" />
