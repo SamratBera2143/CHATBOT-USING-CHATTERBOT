@@ -2,15 +2,35 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS PRIVATE LIMITED
 
-*NAME*: SAMRAT BERA
+*FULL NAME*: SAMRAT BERA
 
 *INTERN ID*: CITS8956
 
 *DOMAIN*: PYTHON PROGRAMMING
 
-*DURATION*: 12 WEEKS
+*NO. OF WEEKS*: 12 WEEKS
 
 *MENTOR*: NEELA SANTHOSH KUMAR
+
+*PROJECT NAME*: CHATBOT USING CHATTERBOT
+
+*PROJECT SCOPE*: The scope of this internship project is to develop a simple text-based chatbot using Python and the ChatterBot library. The project aims to demonstrate how a computer program can interact with users by accepting text inputs and generating suitable responses. It focuses on the basic concepts of chatbot development, conversational automation, and natural language processing.
+
+The project includes setting up the Python programming environment, installing the required libraries, creating a chatbot instance, and training the chatbot with predefined conversational data. The chatbot will be designed to respond to common greetings, simple questions, and other basic messages. It will use the "ListTrainer" module to learn from example conversations and the "get_response()" method to generate replies to user inputs.
+The chatbot will operate through a command-line interface in Visual Studio Code (VS Code). Users will be able to enter messages, receive responses, and continue the conversation until they type the command “exit.” The project also covers basic error handling, testing, debugging, and resolving library dependency issues to ensure that the application runs correctly in the selected Python environment.
+
+The major objectives within the scope of this project are:
+1. Chatbot Development: Create a functional chatbot using Python and the ChatterBot library.
+2. Conversation Training: Train the chatbot using predefined questions and responses.
+3. User Interaction: Allow users to communicate with the chatbot through a terminal.
+4. Response Generation: Generate appropriate responses to common user messages.
+5. Program Termination: Provide an exit command to end the conversation.
+6. Testing and Debugging: Test the chatbot, identify errors, and resolve installation or execution problems.
+7. Learning Outcomes: Understand Python programming concepts, library integration, and the fundamentals of conversational systems.
+
+The project is limited to a basic text-based chatbot and does not include advanced artificial intelligence, voice recognition, speech synthesis, or real-time integration with external services. Its responses depend on the training data and the capabilities of the installed ChatterBot version.
+In the future, the project can be extended by adding a graphical user interface using Tkinter, integrating a database to store conversations, supporting multiple languages, and deploying the chatbot on a website. These improvements could make the application more interactive and suitable for a wider range of practical uses.
+Overall, the project scope covers the design, implementation, testing, and basic evaluation of a simple chatbot, providing practical experience in Python programming and an introduction to automated human-computer communication.
 
 *DESCRIPTION*:
 Internship Task: Development of a Chatbot Using Python and ChatterBot
